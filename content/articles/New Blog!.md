@@ -1,7 +1,7 @@
 ---
 tags:
   - article
-draft: true
+draft: false
 date: 
 permalink: new-blog
 description: Hey! It's a new Blog!

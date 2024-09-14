@@ -1,7 +1,7 @@
 ---
 title: Blake Bouchard
-publish: true
-tags: []
+draft: false
+tags:
 ---
 # Latest
 ![[New Blog!]]
