@@ -1,7 +1,7 @@
 ---
 title: Blake Bouchard
 publish: true
-tags:
-  - article
+tags: []
 ---
-Hello, World! v2
+# Latest
+![[New Blog!]]
