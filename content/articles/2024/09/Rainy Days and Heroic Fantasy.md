@@ -10,9 +10,9 @@ description: Let’s talk about Heroic character-first fantasy.
 
 Yeah, it's gonna rain from time to time. But you can always keep things smooth, greasy, like the absolutely *sleazy* saxophone in this song. Pour a cup of green tea, make some cinnamon toast. Make an oddly relaxed noise, like "Oouuuggghhh." There. Now you're having a rainy day.
 ## The "Scenes" of the Post-5E Fantasy TTRPG genre
-Speaking of things with a bit more of a somber tone, I have been looking at the surprising growth of the OSR scene over the past couple of years. It seemingly coincides nicely with the OGL 1.1 oopsie, which shows that there were maybe a lot of people using D&D 5e in a way that is perhaps better supported by OSR-style games like Old School Essentials.
+Speaking of things with a bit more of a somber tone, I have been looking at the surprising growth of the OSR scene over the past couple of years. It seemingly coincides nicely with the OGL 1.1 oopsie, which shows that there were a lot of people using D&D 5e in a way that is perhaps better supported by OSR-style games like Old School Essentials or Shadowdark.
 
-One of the peculiarities about D&D is that it often regarded as the “kitchen sink” game, and many players independently arrive at the conclusion that that must mean “it’s equally good for every type of player.” But when you take a closer look, you realize that it’s compromising itself in some big ways. Specifically in its Attrition model, as well as how it dumbs its own tactical rules down to better support “Theater-of-the-Mind” style play.
+One of the peculiarities about D&D is that it is often regarded as the “kitchen sink” game, and many players independently arrive at the conclusion that that must mean “it’s equally good for every type of player.” But when you take a closer look, you realize that it’s compromising itself in some big ways. Specifically in its Attrition model, as well as how it dumbs its own tactical rules down to better support “Theater-of-the-Mind” style play.
 
 ![](https://youtu.be/BQpnjYS6mnk?si=SHjbsvCp4Kroq285)
 
@@ -40,7 +40,7 @@ This leaves one scene in particular out in the cold: The Character-first Heroic 
 The major differentiator between the character fantasy scene and others is that the rules are much more built around supporting a particular character fantasy than they are in creating a simulation or a narrative. Those things come secondary to making the characters feel as much like the fantasy they represent.
 
 That means that if your character fantasy revolves around being, say, a "Monster Hunter," then the rules aren't going to get in the way of that too much. Rather, your investment in the rules rewards you with a character that is powerful without having to put too much effort into making them that way.
-
+## Character Fantasy vs. The World
 Contrast this with a game like Pathfinder, or an OSR game. In those games, making a powerful character is either difficult or impossible. You need the aforementioned systems mastery to make your Pathfinder character as powerful as a 5e character, and even then it's likely they'll still feel relatively hamstrung compared to a 5e character of similar level.
 
 And an OSR character is weak by design: You're not supposed to be able to overcome the challenges of the world by simply casting a spell or rolling a check. You're supposed to use your critical thinking skills to solve the problems that your character is confronted with, or... They die! Not much point in thinking up an epic, years-long arc when you're only one sprung pit trap away from an early end.
