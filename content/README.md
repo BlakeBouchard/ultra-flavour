@@ -23,5 +23,6 @@ This is the deploy workflow that should run if everything goes well with the cal
 ## Links
 - https://blakebouchard.github.io/ultra-flavour/
 - https://github.com/BlakeBouchard/ultra-flavour
+	- https://github.com/BlakeBouchard/ultra-flavour/actions/workflows/deploy.yml
 - http://localhost:8080/
 - [Configuration (jzhao.xyz)](https://quartz.jzhao.xyz/configuration#plugins)

@@ -1,7 +1,7 @@
 ---
 draft: false
 ---
-Hi! I'm Blake Bouchard, a Canadian Software Engineer in the Mobile Games Industry.
+Hi! I'm Blake Bouchard, a Canadian Software Engineer in the Mobile Games Industry. My pronouns are **He/Him**.
 
 I graduated from the University of Alberta with a Bachelor of Science in Computing Science, minor in Sociology. I was also one of the first-ever recipients of the U of A Certificate of Game Development.
 

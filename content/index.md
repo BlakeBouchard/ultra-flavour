@@ -5,4 +5,4 @@ tags:
 ---
 [[About Me]]
 # Latest
-[[14 - My New Blog]]
+[[14 - My New Blog|My New Blog]]
