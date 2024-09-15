@@ -3,5 +3,6 @@ title: Blake Bouchard
 draft: false
 tags:
 ---
+[[About Me]]
 # Latest
-![[New Blog!]]
+[[14 - My New Blog]]
