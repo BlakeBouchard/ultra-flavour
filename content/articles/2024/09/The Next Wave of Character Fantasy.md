@@ -50,7 +50,7 @@ Critical Role also made a bit of a splash in the months following the OGL 1.1 si
 
 Like Draw Steel, Daggerheart also diverges quite strongly from the core assumptions of D&D. Specifically, it adds a "fail forward" or "random complications" system to its core dice mechanic, which makes the game feel much more like a "Powered by the Apocalypse" type game than most other games in the D&D tradition would.
 
-This philosophy extends to its combat, which is much more based around meta-currencies than strict initiative ordering. Players take actions in whichever order they please, and can even take multiple turns in a row, though each action they take fills up the GM's "action token" pool, which determines how many actions their NPCs can take when control shifts to them.
+This philosophy extends to its combat, which is much more based around meta-currencies than strict initiative ordering. Players take actions in whichever order they please, and can even take multiple turns in a row, though each action they ~~take fills up the GM's "action token" pool, which determines how many actions their NPCs can take when control shifts to them~~. EDIT: Haha whoops, this became untrue literally as I was typing it out!
 
 As in other "Neo-Trad" games, the characters are the primary drivers of the action. The storytelling prompts emerge primarily from the players' action rolls, specifically from the "Hope/Fear" outcomes of the roll. This mechanic alone changes how you can run a D&D game. The GM no longer acts as the primary storyteller, but rather is required to react much more to what the players are doing.
 
