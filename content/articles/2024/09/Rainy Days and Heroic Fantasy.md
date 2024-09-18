@@ -1,6 +1,7 @@
 ---
 tags:
   - article
+  - ttrpg
 draft: false
 date: 2024-09-15
 permalink: rainy-days-and-heroic-fantasy

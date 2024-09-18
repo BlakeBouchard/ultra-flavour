@@ -5,4 +5,4 @@ tags:
 ---
 [[About Me]]
 # Latest
-![[Rainy Days and Heroic Fantasy]]
+![[The Next Wave of Character Fantasy]]
