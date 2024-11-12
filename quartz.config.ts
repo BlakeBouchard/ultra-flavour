@@ -15,7 +15,7 @@ const config: QuartzConfig = {
 			provider: "plausible",
 		},
 		locale: "en-US",
-		baseUrl: "https://blakebouchard.github.io/ultra-flavour",
+		baseUrl: "https://blakedbouchard.ca",
 		ignorePatterns: ["private", "templates", ".obsidian"],
 		defaultDateType: "created",
 		theme: {
@@ -75,6 +75,7 @@ const config: QuartzConfig = {
 		filters: [Plugin.RemoveDrafts()],
 		emitters: [
 			Plugin.AliasRedirects(),
+			Plugin.CNAME(),
 			Plugin.ComponentResources(),
 			Plugin.ContentPage(),
 			Plugin.FolderPage(),

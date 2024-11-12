@@ -5,4 +5,4 @@ tags:
 ---
 [[About Me]]
 # Latest
-![[The Next Wave of Character Fantasy]]
+![[blakedbouchard.ca is live]]
