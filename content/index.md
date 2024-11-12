@@ -10,4 +10,4 @@ tags:
 [Mastodon](https://mastodon.world/@blakeb)
 [RSS](https://feeds.feedburner.com/blakedbouchard/ultraflavourblog)
 # Latest Article
-![["blakedbouchard.ca" is LIVE]]
+![[blakedbouchard.ca is LIVE]]
