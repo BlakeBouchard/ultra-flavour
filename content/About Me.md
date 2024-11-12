@@ -9,7 +9,6 @@ I reside in Western Canada, currently in the Vancouver area of British Columbia.
 ## Social Media
 - [Bluesky](https://bsky.app/profile/blakebouchard.bsky.social)
 - [Tumblr](https://www.tumblr.com/ultraflavour)
-- [Twitter](https://twitter.com/BlakeDBouchard)
 - [Mastodon](https://mastodon.world/@blakeb)
 # Interests
 ## TTRPGs
@@ -17,6 +16,6 @@ I'm an avid fan of Tabletop Roleplaying Games. The games I'm most interested in 
 
 I have done a bit of writing on TTRPGs over on my [Tumblr](https://www.tumblr.com/ultraflavour), but going forward I'll probably be writing that stuff here and linking to it from there!
 ## Pro Wrestling
-I post about Pro Wrestling over on my Bluesky account: [@blakebouchard.bsky.social](https://bsky.app/profile/blakebouchard.bsky.social)
+I post about Pro Wrestling once in a while over on my Bluesky account: [@blakebouchard.bsky.social](https://bsky.app/profile/blakebouchard.bsky.social)
 
 I'm a fan of AEW and TJPW, secondarily NJPW and CMLL, among others. Support your local indies!
