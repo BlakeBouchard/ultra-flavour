@@ -13,4 +13,4 @@ tags:
 
 [RSS](https://feeds.feedburner.com/blakedbouchard/ultraflavourblog)
 
-![[blakedbouchard.ca is Live]]
+![[blakedbouchard.ca is Live!]]
