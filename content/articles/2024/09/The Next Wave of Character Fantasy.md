@@ -1,6 +1,5 @@
 ---
 tags:
-  - article
   - ttrpg
   - character-fantasy
 draft: false

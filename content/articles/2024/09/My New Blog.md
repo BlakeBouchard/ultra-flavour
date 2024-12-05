@@ -1,6 +1,5 @@
 ---
-tags:
-  - article
+tags: []
 draft: false
 date: 2024-09-14
 permalink: my-new-blog
